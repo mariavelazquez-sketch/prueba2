@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+.contenedor-fijo {
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid #98c1d9;
+    padding: 15px;
+    background-color: #yellow;
+    box-sizing: border-box;
+}
+/* ... el resto de tus estilos h1 y p ... */
+
+
